@@ -3,4 +3,6 @@ Real Time Hand Gesture Recognition (Emoji Recognition), implemented with keras a
 
 The dataset was created using dataset.py and is available at https://www.kaggle.com/gsnikkitha/real-time-hand-gesture-recognition.
 
-EmojiRecognitionModel.ipynb can be used to train the model. The trained model is stored in model.hdf5
+EmojiRecognitionModel.ipynb can be used to train the model. The trained model is stored in model.hdf5.
+
+Finally RealTimeEmoji.ipynb can be used to predict the hand recognition in real time.
